@@ -1,0 +1,11 @@
+/gopath
+/build
+bin/*
+pkg/*
+env.sh
+src/github.com/*
+*.swp
+*.test
+*.bak
+src/*.sh
+src/temp/*
