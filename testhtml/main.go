@@ -24,9 +24,15 @@ type imageObject struct {
 	point   image.Point
 }
 
+type textObject struct {
+	content string
+	point   image.Point
+}
+
 type textLine struct {
 	index int
 	imgs  []imageObject
+	txts  []textObject
 	lines []string
 }
 
@@ -46,10 +52,14 @@ func main() {
 
 	//for c := doc.FirstChild; c != nil; c = c.NextSibling {
 
-	text := &textLine{index: 0, lines: make([]string, 0), imgs: make([]imageObject, 0)}
+	text := &textLine{index: 0,
+		lines: make([]string, 0),
+		txts:  make([]textObject, 0),
+		imgs:  make([]imageObject, 0)}
 	text.lines = append(text.lines, "")
 
-	parse(doc, text)
+	foundSupOrSub := false
+	parse(doc, text, foundSupOrSub)
 
 	rgba := image.NewRGBA(image.Rect(0, 0, 1099, 35*len(text.lines)))
 	timg := textimg.New(rgba, image.White)
@@ -59,6 +69,18 @@ func main() {
 
 	for _, v := range text.imgs {
 		timg.AddImageFromHtmlSrcBase64(v.point, v.content)
+	}
+
+	for _, v := range text.txts {
+		fmt.Println("v:", v)
+
+		rgba := image.NewRGBA(image.Rect(0, 0, 7, 7))
+		timg2 := textimg.New(rgba, image.White)
+		timg2.SetFontFromPath("./fonts/simsun.ttc")
+		timg2.SetFontSize(14 / 2)
+		timg2.DrawDstimg(image.Black, []string{v.content})
+
+		timg.AddImage(v.point, rgba)
 	}
 
 	//temp := bytes.NewBuffer(make([]byte, 0))
@@ -72,18 +94,50 @@ func main() {
 	png.Encode(b, rgba)
 	b.Flush()
 
-	for _, v := range text.lines {
-		fmt.Println("v:", v)
-	}
+	//for _, v := range text.lines {
+	//	fmt.Println("v:", v)
+	//}
 }
 
-func parse(n *html.Node, text *textLine) {
+func parse(n *html.Node, text *textLine, foundSupOrSub bool) {
 	switch n.Type {
 	case html.TextNode:
 		if strings.TrimSpace(n.Data) != "" {
-			//fmt.Printf("data {%s}\n", n.Data)
-
 			text.lines[text.index] += n.Data
+
+			if foundSupOrSub {
+				txtobj := textObject{}
+
+				fmt.Printf("data {%s}\n", n.Data)
+
+				imgX := 0
+				imgY := text.index * 14 * 3
+
+				str := text.lines[text.index]
+				for len(str) > 0 {
+					_, size := utf8.DecodeRuneInString(str)
+					switch size {
+					case 1:
+						imgX += 14 / 2
+					case 2, 3:
+						imgX += 14
+					default:
+						imgX += 14 / 2
+					}
+
+					str = str[size:]
+				}
+
+				text.lines[text.index] += " "
+
+				fmt.Printf("txt X {%d} Y {%d}\n", imgX, imgY)
+
+				txtobj.point = image.Point{X: -imgX, Y: -imgY}
+				txtobj.content = n.Data
+				text.txts = append(text.txts, txtobj)
+
+				foundSupOrSub = false
+			}
 		}
 	case html.ElementNode:
 		switch n.Data {
@@ -144,6 +198,12 @@ func parse(n *html.Node, text *textLine) {
 			text.imgs = append(text.imgs, imgobj)
 			//text.lines[text.index] += "<img>"
 		case "span":
+		case "sub":
+			//fmt.Println("sub")
+			foundSupOrSub = true
+		case "sup":
+			//fmt.Println("sup")
+			foundSupOrSub = true
 		case "p":
 			text.index += 1
 			text.lines = append(text.lines, "")
@@ -151,7 +211,7 @@ func parse(n *html.Node, text *textLine) {
 			//fmt.Println("---new line---")
 		default:
 			if strings.TrimSpace(n.Data) != "" {
-				//fmt.Printf("n.Data {%s}\n", n.Data)
+				fmt.Printf("n.Data {%s}\n", n.Data)
 
 				text.lines[text.index] += n.Data
 			}
@@ -161,6 +221,6 @@ func parse(n *html.Node, text *textLine) {
 	}
 
 	for c := n.FirstChild; c != nil; c = c.NextSibling {
-		parse(c, text)
+		parse(c, text, foundSupOrSub)
 	}
 }

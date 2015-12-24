@@ -1,5 +1,6 @@
 /gopath
 /build
+build/*
 bin/*
 pkg/*
 env.sh
