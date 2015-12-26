@@ -74,7 +74,7 @@ func main() {
 	for _, v := range text.txts {
 		fmt.Println("v:", v)
 
-		rgba := image.NewRGBA(image.Rect(0, 0, 7, 7))
+		rgba := image.NewRGBA(image.Rect(0, 0, 14/2, 14/2))
 		timg2 := textimg.New(rgba, image.White)
 		timg2.SetFontFromPath("./fonts/simsun.ttc")
 		timg2.SetFontSize(14 / 2)
