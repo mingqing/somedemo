@@ -12,6 +12,7 @@ func main() {
 	if err != nil {
 		log.Println("err:", err)
 	}
+
 	/*
 		err = docx.DecomposeTo("./data/unpack/")
 		if err != nil {

@@ -37,7 +37,7 @@ type textLine struct {
 }
 
 func main() {
-	htmlContent, err := ioutil.ReadFile("./data/demo3.html")
+	htmlContent, err := ioutil.ReadFile("./data/demo5.html")
 	if err != nil {
 		fmt.Printf("err {%s}", err.Error())
 		return
@@ -130,7 +130,7 @@ func parse(n *html.Node, text *textLine, foundSupOrSub bool) {
 
 				text.lines[text.index] += " "
 
-				fmt.Printf("txt X {%d} Y {%d}\n", imgX, imgY)
+				//fmt.Printf("txt X {%d} Y {%d}\n", imgX, imgY)
 
 				txtobj.point = image.Point{X: -imgX, Y: -imgY}
 				txtobj.content = n.Data
@@ -186,13 +186,14 @@ func parse(n *html.Node, text *textLine, foundSupOrSub bool) {
 			}
 
 			for i := 0; i < (width / 14); i++ {
-				text.lines[text.index] += "  "
+				text.lines[text.index] += "   "
 			}
 			if (width % 14) != 0 {
 				text.lines[text.index] += "  "
 			}
 
-			fmt.Printf("img width {%d} height {%d} X {%d} Y {%d}\n", width, height, imgX, imgY)
+			//fmt.Printf("img width {%d} height {%d} X {%d} Y {%d}\n", width, height, imgX, imgY)
+			fmt.Println(text.lines[text.index])
 
 			imgobj.point = image.Point{X: -imgX, Y: -imgY}
 			text.imgs = append(text.imgs, imgobj)
