@@ -37,6 +37,7 @@ type textLine struct {
 }
 
 func main() {
+	fontPath := "./fonts/SourceHanSansSC-Regular.ttf"
 	htmlContent, err := ioutil.ReadFile("./data/demo5.html")
 	if err != nil {
 		fmt.Printf("err {%s}", err.Error())
@@ -63,7 +64,7 @@ func main() {
 
 	rgba := image.NewRGBA(image.Rect(0, 0, 1099, 35*len(text.lines)))
 	timg := textimg.New(rgba, image.White)
-	timg.SetFontFromPath("./fonts/simsun.ttc")
+	timg.SetFontFromPath(fontPath)
 	timg.SetFontSize(14)
 	timg.DrawDstimg(image.Black, text.lines)
 
@@ -76,7 +77,7 @@ func main() {
 
 		rgba := image.NewRGBA(image.Rect(0, 0, 14/2, 14/2))
 		timg2 := textimg.New(rgba, image.White)
-		timg2.SetFontFromPath("./fonts/simsun.ttc")
+		timg2.SetFontFromPath(fontPath)
 		timg2.SetFontSize(14 / 2)
 		timg2.DrawDstimg(image.Black, []string{v.content})
 
@@ -94,9 +95,9 @@ func main() {
 	png.Encode(b, rgba)
 	b.Flush()
 
-	//for _, v := range text.lines {
-	//	fmt.Println("v:", v)
-	//}
+	for _, v := range text.lines {
+		fmt.Println("v:", v, "len:", len(v))
+	}
 }
 
 func parse(n *html.Node, text *textLine, foundSupOrSub bool) {
@@ -193,7 +194,7 @@ func parse(n *html.Node, text *textLine, foundSupOrSub bool) {
 			}
 
 			//fmt.Printf("img width {%d} height {%d} X {%d} Y {%d}\n", width, height, imgX, imgY)
-			fmt.Println(text.lines[text.index])
+			//fmt.Println(text.lines[text.index])
 
 			imgobj.point = image.Point{X: -imgX, Y: -imgY}
 			text.imgs = append(text.imgs, imgobj)
