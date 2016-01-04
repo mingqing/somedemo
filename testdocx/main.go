@@ -7,6 +7,11 @@ import (
 )
 
 func main() {
+	d := godocx.NewDocXml()
+	d.Test()
+}
+
+func testDocxFile() {
 	path := "./data/demo1.docx"
 	docx, err := godocx.NewDocxFileFromPath(path)
 	if err != nil {
