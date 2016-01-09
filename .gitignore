@@ -1,6 +1,7 @@
 /gopath
 /build
 build/*
+*/build/*
 bin/*
 pkg/*
 env.sh
@@ -14,3 +15,5 @@ src/temp/*
 #testdocx
 testdocx/data/unpack/
 testdocx/build/
+#testhtml
+testhtml/build/

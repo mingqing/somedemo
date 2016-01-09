@@ -7,17 +7,17 @@ import (
 )
 
 func main() {
-	//d := godocx.NewDocXml()
-
-	/*
-		d.Test()
-		err := d.Save("./data/save/")
-		if err != nil {
-			log.Println("err:", err)
-		}
-	*/
-
+	//printXml()
 	unpackDocx()
+}
+
+func printXml() {
+	d := godocx.NewDocXml()
+	d.Test()
+	err := d.Save("./data/save/")
+	if err != nil {
+		log.Println("err:", err)
+	}
 }
 
 func packDocx() {
@@ -34,7 +34,7 @@ func packDocx() {
 }
 
 func unpackDocx() {
-	path := "./data/demo1.docx"
+	path := "./data/demo2.docx"
 	docx, err := godocx.NewDocxFileFromPath(path)
 	if err != nil {
 		log.Println("err:", err)
