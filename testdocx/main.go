@@ -8,7 +8,7 @@ import (
 
 func main() {
 	//printXml()
-	unpackDocx()
+	packDocx()
 }
 
 func printXml() {
