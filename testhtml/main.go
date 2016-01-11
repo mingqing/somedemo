@@ -73,7 +73,7 @@ func main() {
 	}
 
 	for _, v := range text.txts {
-		fmt.Println("v:", v)
+		//fmt.Println("v:", v)
 
 		rgba := image.NewRGBA(image.Rect(0, 0, 14/2, 14/2))
 		timg2 := textimg.New(rgba, image.White)
@@ -95,15 +95,19 @@ func main() {
 	png.Encode(b, rgba)
 	b.Flush()
 
-	for _, v := range text.lines {
-		fmt.Println("v:", v, "len:", len(v))
-	}
+	/*
+		for _, v := range text.lines {
+			fmt.Println("v:", v, "len:", len(v))
+		}
+	*/
 }
 
 func parse(n *html.Node, text *textLine, foundSupOrSub bool) {
 	switch n.Type {
 	case html.TextNode:
 		if strings.TrimSpace(n.Data) != "" {
+			fmt.Println("data:", n.Data)
+
 			text.lines[text.index] += n.Data
 
 			if foundSupOrSub {
@@ -145,7 +149,9 @@ func parse(n *html.Node, text *textLine, foundSupOrSub bool) {
 		case "html", "head", "body":
 		case "table", "tbody", "td", "tr":
 		case "img":
-			//fmt.Printf("data {%s}\n", "<img>")
+			fmt.Printf("data {%s}\n", "<img>")
+			//fmt.Println("img:", text.lines[text.index])
+
 			imgobj := imageObject{}
 
 			width := 0
@@ -201,16 +207,20 @@ func parse(n *html.Node, text *textLine, foundSupOrSub bool) {
 			//text.lines[text.index] += "<img>"
 		case "span":
 		case "sub":
-			//fmt.Println("sub")
+			fmt.Println("sub")
+
 			foundSupOrSub = true
 		case "sup":
-			//fmt.Println("sup")
+			fmt.Println("sup")
+
 			foundSupOrSub = true
 		case "p":
+			//fmt.Println(text.lines[text.index])
+
 			text.index += 1
 			text.lines = append(text.lines, "")
 
-			//fmt.Println("---new line---")
+			fmt.Println("---new line---")
 		default:
 			if strings.TrimSpace(n.Data) != "" {
 				fmt.Printf("n.Data {%s}\n", n.Data)
