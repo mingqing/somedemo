@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+  <Default Extension="png" ContentType="image/png"></Default>
   <Default Extension="wmf" ContentType="image/x-wmf"></Default>
   <Default Extension="bin" ContentType="application/vnd.openxmlformats-officedocument.oleObject"></Default>
   <Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"></Default>
   <Default Extension="xml" ContentType="application/xml"></Default>
-  <Default Extension="png" ContentType="image/png"></Default>
   <Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"></Override>
 </Types>

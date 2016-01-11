@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+  <w:body>
+    <w:p>
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体"></w:rFonts>
+          <w:b></w:b>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hint="eastAsia"></w:rFonts>
+          <w:b></w:b>
+        </w:rPr>
+        <w:t>杀伤力反倒是★</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:jc w:val="center"></w:jc>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体"></w:rFonts>
+          <w:b></w:b>
+          <w:sz w:val="30"></w:sz>
+          <w:szCs w:val="30"></w:szCs>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hint="eastAsia"></w:rFonts>
+          <w:b></w:b>
+          <w:sz w:val="30"></w:sz>
+          <w:szCs w:val="30"></w:szCs>
+        </w:rPr>
+        <w:t>我靠考生来说就是多了发生了多个房间了</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:jc w:val="center"></w:jc>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:asciiTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi"></w:rFonts>
+          <w:b></w:b>
+          <w:sz w:val="36"></w:sz>
+          <w:szCs w:val="36"></w:szCs>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"></w:rFonts>
+          <w:b></w:b>
+          <w:sz w:val="36"></w:sz>
+          <w:szCs w:val="36"></w:szCs>
+        </w:rPr>
+        <w:t>测试标题</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:jc w:val="center"></w:jc>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"></w:rFonts>
+        </w:rPr>
+        <w:t>测试 测试 测试 测试 测试</w:t>
+      </w:r>
+      <w:r w:rsidR="00CE3B35" w:rsidRPr="00A4287D">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" />
+          <w:position w:val="-14" />
+        </w:rPr>
+        <w:object w:dxaOrig="2500" w:dyaOrig="400">
+          <v:shape id="_x00005a2a0bd0-c458-470c-847b-9a759a697b17_i1090" type="#_x00005a2a0bd0-c458-470c-847b-9a759a697b17_t75" style="width:125.25pt;height:80.25pt" alt="godocx">
+            <v:imagedata r:id="rId5a2a0bd0-c458-470c-847b-9a759a697b17114" o:title="" />
+          </v:shape>
+        </w:object>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="002A2386" w:rsidRPr="00AE5FF7" w:rsidSect="007A55E5">
+      <w:headerReference w:type="even" r:id="rId_headeranswer" />
+      <w:headerReference w:type="default" r:id="rId_headeranswer" />
+      <w:footerReference w:type="even" r:id="rId_footeranswer" />
+      <w:footerReference w:type="default" r:id="rId_footeranswer" />
+      <w:pgSz w:w="11906" w:h="16838" w:code="9" />
+      <w:pgMar w:top="1440" w:right="1797" w:bottom="1440" w:left="1797" w:header="851" w:footer="992" w:gutter="0" />
+      <w:pgNumType w:start="1" />
+      <w:cols w:space="425" />
+      <w:docGrid w:type="lines" w:linePitch="312" />
+    </w:sectPr>
+  </w:body>
+</w:document>
