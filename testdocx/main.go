@@ -9,8 +9,8 @@ import (
 
 func main() {
 	//printXml()
-	//packDocx()
-	documentTest()
+	packDocx()
+	//documentTest()
 }
 
 func documentTest() {
@@ -44,10 +44,6 @@ func documentTest() {
 func printXml() {
 	d, _ := godocx.NewDocXml("./data/example1/test.docs")
 	d.Test()
-	err := d.Save("./data/save/")
-	if err != nil {
-		fmt.Println("err:", err)
-	}
 }
 
 func packDocx() {
