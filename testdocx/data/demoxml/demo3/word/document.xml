@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+  <w:body>
+    <w:p w:rsidR="00082961" w:rsidRDefault="00385C41">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体"/>
+          <w:b/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+        </w:rPr>
+        <w:t>杀伤力反倒是★</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00082961" w:rsidRDefault="00385C41">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+        <w:t>我靠考生来说就是多了发生了多个房间了</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00082961" w:rsidRPr="00B732BA" w:rsidRDefault="00B732BA">
+      <w:pPr>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t>这是</w:t>
+      </w:r>
+      <w:r>
+        <w:pict>
+          <v:shape id="_x0000_i1025" type="#_x0000_t75" style="width:100.5pt;height:110.25pt">
+            <v:imagedata r:id="rId6" o:title="image1"/>
+          </v:shape>
+        </w:pict>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t>图片</w:t>
+      </w:r>
+      <w:r>
+        <w:pict>
+          <v:shape id="_x0000_i1025" type="#_x0000_t75" style="width:100.5pt;height:110.25pt">
+            <v:imagedata r:id="rId6" o:title="image1"/>
+          </v:shape>
+        </w:pict>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00082961" w:rsidRPr="00B732BA" w:rsidSect="007A55E5">
+      <w:headerReference w:type="even" r:id="rId7"/>
+      <w:headerReference w:type="default" r:id="rId8"/>
+      <w:footerReference w:type="even" r:id="rId9"/>
+      <w:footerReference w:type="default" r:id="rId10"/>
+      <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
+      <w:pgMar w:top="1440" w:right="1797" w:bottom="1440" w:left="1797" w:header="851" w:footer="992" w:gutter="0"/>
+      <w:pgNumType w:start="1"/>
+      <w:cols w:space="425"/>
+      <w:docGrid w:type="lines" w:linePitch="312"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
