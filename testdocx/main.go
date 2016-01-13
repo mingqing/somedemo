@@ -5,16 +5,18 @@ import (
 	"fmt"
 
 	"github.com/mingqing/godocx"
+	"github.com/pborman/uuid"
 )
 
 func main() {
 	//printXml()
-	packDocx()
-	//documentTest()
+	//packDocx()
+	documentTest()
 }
 
 func documentTest() {
-	d, err := godocx.NewDocXml("./data/example1/test.docs")
+	randomId := uuid.NewUUID()
+	d, err := godocx.NewDocXml("./data/example1/" + randomId.String() + "/test.docs")
 	if err != nil {
 		fmt.Printf("create docxml err {%s}\n", err.Error())
 		return
@@ -47,7 +49,7 @@ func printXml() {
 }
 
 func packDocx() {
-	docx, err := godocx.NewDocxFile("demo2.docx")
+	docx, err := godocx.NewDocxFile("demo3.docx")
 	if err != nil {
 		fmt.Println("err:", err)
 	}
@@ -60,7 +62,7 @@ func packDocx() {
 }
 
 func unpackDocx() {
-	path := "./data/demo2.docx"
+	path := "./data/demo1.docx"
 	docx, err := godocx.NewDocxFileFromPath(path)
 	if err != nil {
 		fmt.Println("err:", err)
