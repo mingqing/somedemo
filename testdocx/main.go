@@ -9,8 +9,8 @@ import (
 
 func main() {
 	//printXml()
-	packDocx()
-	//documentTest()
+	//packDocx()
+	documentTest()
 }
 
 func documentTest() {
