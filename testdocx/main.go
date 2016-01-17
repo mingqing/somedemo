@@ -10,8 +10,9 @@ import (
 
 func main() {
 	//printXml()
-	//packDocx()
-	documentTest()
+	packDocx("/tmp/data/9240893b-bcbd-11e5-9aa0-0021cc684b34", "/tmp/data", "demo3.docx")
+	//unpackDocx()
+	//documentTest()
 }
 
 func documentTest() {
@@ -24,6 +25,7 @@ func documentTest() {
 
 	document := d.Document()
 	paragh := document.AddParagraph()
+	document.Save(d.Dir)
 
 	ppr := paragh.AddProperties()
 	rpr := ppr.AddRunProperties()
@@ -48,14 +50,13 @@ func printXml() {
 	d.Test()
 }
 
-func packDocx() {
-	docx, err := godocx.NewDocxFile("demo3.docx")
+func packDocx(docxParentDir, packTo, name string) {
+	docx, err := godocx.NewDocxFile(name)
 	if err != nil {
 		fmt.Println("err:", err)
 	}
 
-	docxParentDir := "./data/unpack/"
-	err = docx.CombineTo(docxParentDir, "./data/pack/")
+	err = docx.CombineTo(docxParentDir, packTo)
 	if err != nil {
 		fmt.Println("err:", err)
 	}
