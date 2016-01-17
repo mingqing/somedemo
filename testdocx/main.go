@@ -10,14 +10,14 @@ import (
 
 func main() {
 	//printXml()
-	packDocx("/tmp/data/9240893b-bcbd-11e5-9aa0-0021cc684b34", "/tmp/data", "demo3.docx")
-	//unpackDocx()
+	//packDocx("/tmp/data/9240893b-bcbd-11e5-9aa0-0021cc684b34", "/tmp/data", "demo3.docx")
+	unpackDocx()
 	//documentTest()
 }
 
 func documentTest() {
 	randomId := uuid.NewUUID()
-	d, err := godocx.NewDocXml("./data/example1/" + randomId.String() + "/test.docs")
+	d, err := godocx.NewDocXml("./data/example1/"+randomId.String(), randomId.String()+".docs")
 	if err != nil {
 		fmt.Printf("create docxml err {%s}\n", err.Error())
 		return
@@ -46,7 +46,7 @@ func documentTest() {
 }
 
 func printXml() {
-	d, _ := godocx.NewDocXml("./data/example1/test.docs")
+	d, _ := godocx.NewDocXml("./data/example1", "test.docs")
 	d.Test()
 }
 
@@ -63,7 +63,7 @@ func packDocx(docxParentDir, packTo, name string) {
 }
 
 func unpackDocx() {
-	path := "./data/demo1.docx"
+	path := "./data/demo2/ed852ad7-bd1d-11e5-bd94-782bcb24d315-fail.docx"
 	docx, err := godocx.NewDocxFileFromPath(path)
 	if err != nil {
 		fmt.Println("err:", err)

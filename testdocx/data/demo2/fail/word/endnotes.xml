@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:endnotes w:xmln:ve="http://schemas.openxmlformats.org/markup-compatibility/2006" w:xmln:o="urn:schemas-microsoft-com:office:office" w:xmln:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" w:xmln:m="http://schemas.openxmlformats.org/officeDocument/2006/math" w:xmln:v="urn:schemas-microsoft-com:vml" w:xmln:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" w:xmln:w10="urn:schemas-microsoft-com:office:word" w:xmln:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:xmln:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+  <w:endnote w:type="separator" w:id="-1">
+    <w:p>
+      <w:r>
+        <w:separator></w:separator>
+      </w:r>
+    </w:p>
+  </w:endnote>
+  <w:endnote w:type="continuationSeparator" w:id="0">
+    <w:p>
+      <w:r>
+        <w:continuationSeparator></w:continuationSeparator>
+      </w:r>
+    </w:p>
+  </w:endnote>
+</w:endnotes>
