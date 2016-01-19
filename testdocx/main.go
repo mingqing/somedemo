@@ -10,8 +10,8 @@ import (
 
 func main() {
 	//printXml()
-	//packDocx("/tmp/data/9240893b-bcbd-11e5-9aa0-0021cc684b34", "/tmp/data", "demo3.docx")
-	unpackDocx()
+	packDocx("./data/example1/fab003fe-bec2-11e5-93ab-0021cc684b34", "./", "demo3.docx")
+	//unpackDocx()
 	//documentTest()
 }
 
@@ -25,7 +25,6 @@ func documentTest() {
 
 	document := d.Document()
 	paragh := document.AddParagraph()
-	document.Save(d.Dir)
 
 	ppr := paragh.AddProperties()
 	rpr := ppr.AddRunProperties()
@@ -41,8 +40,12 @@ func documentTest() {
 	font2.Hint = "eastAsia"
 	run.Text("绝密★启用前")
 
+	paragh.AddPictFromFile("/tmp/image1.png")
+
 	docByte, _ := xml.MarshalIndent(document, "", "  ")
 	fmt.Println(xml.Header + string(docByte))
+
+	document.Save(d.Dir)
 }
 
 func printXml() {
