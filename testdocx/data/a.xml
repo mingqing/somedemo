@@ -1,0 +1,11 @@
+    <w:sectPr w:rsidR="001814B2" w:rsidRPr="00A4287D" w:rsidSect="007A55E5">
+      <w:headerReference w:type="even" r:id="rId17"/>
+      <w:headerReference w:type="default" r:id="rId18"/>
+      <w:footerReference w:type="even" r:id="rId19"/>
+      <w:footerReference w:type="default" r:id="rId20"/>
+      <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
+      <w:pgMar w:top="1440" w:right="1797" w:bottom="1440" w:left="1797" w:header="851" w:footer="992" w:gutter="0"/>
+      <w:pgNumType w:start="1"/>
+      <w:cols w:space="425"/>
+      <w:docGrid w:type="lines" w:linePitch="312"/>
+    </w:sectPr>

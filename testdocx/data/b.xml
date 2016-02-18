@@ -1,0 +1,22 @@
+    <w:sectPr w:rsidR="002A2386" w:rsidRPr="00AE5FF7" w:rsidSect="007A55E5">
+      <w:headerReference w:type="even" r:id="rId_headeranswer"/>
+      <w:headerReference w:type="default" r:id="rId_headeranswer"/>
+      <w:footerReference w:type="even" r:id="rId_footeranswer"/>
+      <w:footerReference w:type="default" r:id="rId_footeranswer"/>
+      <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
+      <w:pgMar w:top="1440" w:right="1797" w:bottom="1440" w:left="1797" w:header="851" w:footer="992" w:gutter="0"/>
+      <w:pgNumType w:start="1"/>
+      <w:cols w:space="425"/>
+      <w:docGrid w:type="lines" w:linePitch="312"/>
+    </w:sectPr>
+
+        <w:sectPr w:rsidR="000D09E5" w:rsidSect="00157616">
+          <w:footerReference w:type="even" r:id="rId_footereven"/>
+          <w:footerReference w:type="default" r:id="rId_footerdefault"/>
+          <w:headerReference w:type="even" r:id="rId_headereven"/>
+          <w:headerReference w:type="default" r:id="rId_headerdefault"/>
+          <w:pgSz w:w="20639" w:h="14572" w:orient="landscape" w:code="9"/>
+          <w:pgMar w:top="1000" w:right="1797" w:bottom="1000" w:left="2797" w:header="851" w:footer="592" w:gutter="0"/>
+          <w:cols w:num="2" w:sep="1" w:space="425"/>
+          <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
