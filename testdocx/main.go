@@ -11,7 +11,9 @@ import (
 func main() {
 	//printXml()
 	//packDocx("/tmp/data/9240893b-bcbd-11e5-9aa0-0021cc684b34", "/tmp/data", "demo3.docx")
-	unpackDocx()
+	//packDocx("./data/demo2/fail", "./", "fail-test.docx")
+	packDocx("./data/unpack", "./", "fail-test.docx")
+	//unpackDocx()
 	//documentTest()
 }
 
@@ -63,7 +65,7 @@ func packDocx(docxParentDir, packTo, name string) {
 }
 
 func unpackDocx() {
-	path := "./data/demo2/ed852ad7-bd1d-11e5-bd94-782bcb24d315-fail.docx"
+	path := "./data/demo2/5be1eae1-bd8b-11e5-896e-782bcb24d315.docx"
 	docx, err := godocx.NewDocxFileFromPath(path)
 	if err != nil {
 		fmt.Println("err:", err)
