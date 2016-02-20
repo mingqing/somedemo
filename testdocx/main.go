@@ -10,7 +10,7 @@ import (
 
 func main() {
 	//printXml()
-	packDocx("./data/example1/fab003fe-bec2-11e5-93ab-0021cc684b34", "./", "demo3.docx")
+	packDocx("./data/demo1/", "./", "demo3.docx")
 	//unpackDocx()
 	//documentTest()
 }

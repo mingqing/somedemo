@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+  <w:body>
+    <w:p w:rsidR="00C93DDE" w:rsidRPr="00F56D61" w:rsidRDefault="00CB653D" w:rsidP="00C93DDE">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体"/>
+          <w:b/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00F56D61">
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+        </w:rPr>
+        <w:t>绝密★启用前</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00C93DDE" w:rsidRPr="00771D19" w:rsidRDefault="00CB653D" w:rsidP="00C93DDE">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00771D19">
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+        <w:t>2015-2016</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00771D19">
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+        <w:t>学年度</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00771D19">
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+        <w:t>???</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00771D19">
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+        <w:t>学校</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00771D19">
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00771D19">
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="30"/>
+        </w:rPr>
+        <w:t>月月考卷</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00C93DDE" w:rsidRPr="006725CC" w:rsidRDefault="00CB653D" w:rsidP="00C93DDE">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:eastAsia="黑体"/>
+          <w:b/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00771D19">
+        <w:rPr>
+          <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="36"/>
+          <w:szCs w:val="36"/>
+        </w:rPr>
+        <w:t>试卷副标题</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="004D42A0" w:rsidRDefault="00CB653D" w:rsidP="009C38D0">
+      <w:pPr>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>考试范围：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>xxx</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>；考试时间：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>100</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>分钟；命题人：</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>xxx</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="0" w:type="auto"/>
+        <w:jc w:val="center"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:sz="4" w:space="0" w:color="000000" w:themeColor="text1"/>
+          <w:left w:val="single" w:sz="4" w:space="0" w:color="000000" w:themeColor="text1"/>
+          <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000" w:themeColor="text1"/>
+          <w:right w:val="single" w:sz="4" w:space="0" w:color="000000" w:themeColor="text1"/>
+          <w:insideH w:val="single" w:sz="4" w:space="0" w:color="000000" w:themeColor="text1"/>
+          <w:insideV w:val="single" w:sz="4" w:space="0" w:color="000000" w:themeColor="text1"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblLook w:val="04A0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="1000"/>
+        <w:gridCol w:w="1000"/>
+        <w:gridCol w:w="1000"/>
+        <w:gridCol w:w="1000"/>
+        <w:gridCol w:w="1000"/>
+        <w:gridCol w:w="1000"/>
+        <w:gridCol w:w="1000"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00415768" w:rsidTr="00E6517F">
+        <w:trPr>
+          <w:jc w:val="center"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>题号</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>一</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>二</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>三</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>四</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>五</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>总分</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00415768" w:rsidTr="00E6517F">
+        <w:trPr>
+          <w:trHeight w:val="520"/>
+          <w:jc w:val="center"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+              </w:rPr>
+              <w:t>得分</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00415768" w:rsidRPr="00E6517F" w:rsidRDefault="00CB653D" w:rsidP="00E6517F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w:rsidR="004D42A0" w:rsidRDefault="00CB653D">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>注意事项：</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="004D42A0" w:rsidRDefault="00CB653D">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．答题前填写好自己的姓名、班级、考号等信息</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="004D42A0" w:rsidRDefault="00CB653D">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．请将答案正确填写在答题卡上</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="004D42A0" w:rsidRDefault="00CB653D"/>
+    <w:p w:rsidR="004D42A0" w:rsidRPr="00E53E16" w:rsidRDefault="00CB653D" w:rsidP="00E53E16">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorEastAsia" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorEastAsia"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00E53E16">
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorEastAsia" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorEastAsia" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>第</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00E53E16">
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorEastAsia" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorEastAsia" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>I</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00E53E16">
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorEastAsia" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorEastAsia" w:hint="eastAsia"/>
+          <w:b/>
+          <w:sz w:val="24"/>
+          <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>卷（选择题）</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="005B3F24" w:rsidRDefault="00CB653D">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>请点击修改第</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>I</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>卷的文字说明</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="004D42A0" w:rsidRDefault="00CB653D"/>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="0" w:type="auto"/>
+        <w:tblLook w:val="04A0"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="2184"/>
+        <w:gridCol w:w="2536"/>
+      </w:tblGrid>
+      <w:tr w:rsidR="00A93926" w:rsidTr="00682485">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+          </w:tcPr>
+          <w:tbl>
+            <w:tblPr>
+              <w:tblW w:w="1938" w:type="dxa"/>
+              <w:tblBorders>
+                <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                <w:insideH w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                <w:insideV w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+              </w:tblBorders>
+              <w:tblLook w:val="04A0"/>
+            </w:tblPr>
+            <w:tblGrid>
+              <w:gridCol w:w="969"/>
+              <w:gridCol w:w="969"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="00A93926" w:rsidTr="00A93926">
+              <w:trPr>
+                <w:trHeight w:val="274"/>
+              </w:trPr>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="969" w:type="dxa"/>
+                </w:tcPr>
+                <w:p w:rsidR="00A93926" w:rsidRPr="00A93926" w:rsidRDefault="00CB653D" w:rsidP="009D60AC">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                  </w:pPr>
+                  <w:r>
+                    <w:rPr>
+                      <w:rFonts w:hint="eastAsia"/>
+                    </w:rPr>
+                    <w:t>评卷人</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="969" w:type="dxa"/>
+                </w:tcPr>
+                <w:p w:rsidR="00A93926" w:rsidRDefault="00CB653D" w:rsidP="009D60AC">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                  </w:pPr>
+                  <w:r>
+                    <w:rPr>
+                      <w:rFonts w:hint="eastAsia"/>
+                    </w:rPr>
+                    <w:t>得分</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00A93926" w:rsidTr="00A93926">
+              <w:trPr>
+                <w:trHeight w:val="549"/>
+              </w:trPr>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="969" w:type="dxa"/>
+                </w:tcPr>
+                <w:p w:rsidR="00A93926" w:rsidRDefault="00CB653D" w:rsidP="009D60AC">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                  </w:pPr>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="969" w:type="dxa"/>
+                </w:tcPr>
+                <w:p w:rsidR="00A93926" w:rsidRDefault="00CB653D" w:rsidP="009D60AC">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                  </w:pPr>
+                </w:p>
+              </w:tc>
+            </w:tr>
+          </w:tbl>
+          <w:p w:rsidR="00A93926" w:rsidRDefault="00CB653D" w:rsidP="00A93926"/>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w:rsidR="00A93926" w:rsidRPr="00A93926" w:rsidRDefault="00CB653D" w:rsidP="00A93926">
+            <w:pPr>
+              <w:rPr>
+                <w:b/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:hint="eastAsia"/>
+                <w:b/>
+              </w:rPr>
+              <w:t>一、选择题（题型注释）</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w:rsidR="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>下列事件中</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>必然事件是</w:t>
+      </w:r>
+      <w:r>
+        <w:t>（</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:t>）</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r w:rsidRPr="0006331A">
+        <w:t>A</w:t>
+      </w:r>
+      <w:r>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>掷一枚硬币</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>正面朝上</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r w:rsidRPr="0006331A">
+        <w:t>B</w:t>
+      </w:r>
+      <w:r>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>任意三条线段可以组成一个三角形</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r w:rsidRPr="0006331A">
+        <w:t>C</w:t>
+      </w:r>
+      <w:r>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>投掷一枚质地均匀的骰子</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>掷得的点数是奇数</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRPr="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r w:rsidRPr="0006331A">
+        <w:t>D</w:t>
+      </w:r>
+      <w:r>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>抛出的篮球会下落</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="001D696A" w:rsidRPr="003D1863" w:rsidRDefault="00CB653D" w:rsidP="003D1863">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+        </w:rPr>
+        <w:t>甲、乙、丙、丁四人进行射击测试，每人</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="280" w:dyaOrig="280">
+          <v:shape id="对象 70" o:spid="_x0000_i1025" alt="e卷通组卷系统 www.zujuan.com" style="width:14.25pt;height:14.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId7" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 70" DrawAspect="Content" ObjectID="_1517492575" r:id="rId8"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+        </w:rPr>
+        <w:t>次射击的平均成绩恰好都是</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="360" w:dyaOrig="280">
+          <v:shape id="对象 71" o:spid="_x0000_i1026" alt="e卷通组卷系统 www.zujuan.com" style="width:18pt;height:14.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId9" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 71" DrawAspect="Content" ObjectID="_1517492576" r:id="rId10"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+        </w:rPr>
+        <w:t>环，方差分别是</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="499" w:dyaOrig="279">
+          <v:shape id="对象 339" o:spid="_x0000_i1027" alt="e卷通组卷系统 www.zujuan.com" style="width:24.75pt;height:14.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId11" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 339" DrawAspect="Content" ObjectID="_1517492577" r:id="rId12"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="460" w:dyaOrig="280">
+          <v:shape id="对象 73" o:spid="_x0000_i1028" alt="e卷通组卷系统 www.zujuan.com" style="width:23.25pt;height:14.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId13" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 73" DrawAspect="Content" ObjectID="_1517492578" r:id="rId14"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="480" w:dyaOrig="279">
+          <v:shape id="对象 74" o:spid="_x0000_i1029" alt="e卷通组卷系统 www.zujuan.com" style="width:24pt;height:14.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId15" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 74" DrawAspect="Content" ObjectID="_1517492579" r:id="rId16"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="460" w:dyaOrig="280">
+          <v:shape id="对象 75" o:spid="_x0000_i1030" alt="e卷通组卷系统 www.zujuan.com" style="width:23.25pt;height:14.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId17" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 75" DrawAspect="Content" ObjectID="_1517492580" r:id="rId18"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+        </w:rPr>
+        <w:t>，在本次射击测试中，成绩最稳定的是</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>（</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">    </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>）</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="001D696A" w:rsidRPr="003D1863" w:rsidRDefault="00CB653D" w:rsidP="003D1863">
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+        </w:rPr>
+        <w:t>甲</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:kern w:val="0"/>
+        </w:rPr>
+        <w:t xml:space="preserve">   </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">      </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>乙</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">         </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>C</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>丙</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">             </w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>D</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>丁</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CE783A" w:rsidRPr="0009439F" w:rsidRDefault="00CB653D" w:rsidP="0009439F">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>3</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>李明同时掷甲、乙两枚质地均匀的小立方体（立方体的每个面上分别标有数字</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>2</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>3</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>4</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>5</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>6</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>）．</w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart"/>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>记甲立方体</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd"/>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>朝上一面上的数字为</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>x</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>、乙立方体朝上一面朝上的数字为</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>y</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，这样就确定点</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>P</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>的一个坐标（</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="200" w:dyaOrig="220">
+          <v:shape id="对象 29" o:spid="_x0000_i1031" alt="e卷通组卷系统 www.zujuan.com" style="width:9.75pt;height:11.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId19" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 29" DrawAspect="Content" ObjectID="_1517492581" r:id="rId20"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:position w:val="-10"/>
+        </w:rPr>
+        <w:object w:dxaOrig="220" w:dyaOrig="260">
+          <v:shape id="对象 30" o:spid="_x0000_i1032" alt="e卷通组卷系统 www.zujuan.com" style="width:11.25pt;height:12.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId21" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 30" DrawAspect="Content" ObjectID="_1517492582" r:id="rId22"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>），那么点</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>P</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>落在双曲线</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:position w:val="-24"/>
+        </w:rPr>
+        <w:object w:dxaOrig="621" w:dyaOrig="621">
+          <v:shape id="对象 31" o:spid="_x0000_i1033" alt="e卷通组卷系统 www.zujuan.com" style="width:30.75pt;height:30.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId23" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 31" DrawAspect="Content" ObjectID="_1517492583" r:id="rId24"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>上的概率为（</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">    </w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>）</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CE783A" w:rsidRPr="0009439F" w:rsidRDefault="00CB653D" w:rsidP="0009439F">
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>A</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:position w:val="-24"/>
+        </w:rPr>
+        <w:object w:dxaOrig="320" w:dyaOrig="620">
+          <v:shape id="对象 32" o:spid="_x0000_i1034" alt="e卷通组卷系统 www.zujuan.com" style="width:15.75pt;height:30.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId25" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 32" DrawAspect="Content" ObjectID="_1517492584" r:id="rId26"/>
+        </w:object>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">              </w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>B</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:position w:val="-24"/>
+        </w:rPr>
+        <w:object w:dxaOrig="320" w:dyaOrig="620">
+          <v:shape id="对象 33" o:spid="_x0000_i1035" alt="e卷通组卷系统 www.zujuan.com" style="width:15.75pt;height:30.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId27" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 33" DrawAspect="Content" ObjectID="_1517492585" r:id="rId28"/>
+        </w:object>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">             </w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>C</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:position w:val="-24"/>
+        </w:rPr>
+        <w:object w:dxaOrig="220" w:dyaOrig="621">
+          <v:shape id="对象 34" o:spid="_x0000_i1036" alt="e卷通组卷系统 www.zujuan.com" style="width:11.25pt;height:30.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId29" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 34" DrawAspect="Content" ObjectID="_1517492586" r:id="rId30"/>
+        </w:object>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve">             </w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>D</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>、</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:position w:val="-24"/>
+        </w:rPr>
+        <w:object w:dxaOrig="220" w:dyaOrig="621">
+          <v:shape id="对象 35" o:spid="_x0000_i1037" alt="e卷通组卷系统 www.zujuan.com" style="width:11.25pt;height:30.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId31" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="对象 35" DrawAspect="Content" ObjectID="_1517492587" r:id="rId32"/>
+        </w:object>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00C2472D" w:rsidRPr="00782505" w:rsidRDefault="00CB653D" w:rsidP="00782505">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>4</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>如果</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="201" w:dyaOrig="221">
+          <v:shape id="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1039" o:spid="_x0000_i1038" alt="e卷通组卷系统 www.zujuan.com" style="width:9.75pt;height:11.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId33" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1039" DrawAspect="Content" ObjectID="_1517492588" r:id="rId34"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>是负数，那么</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="382" w:dyaOrig="221">
+          <v:shape id="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1040" o:spid="_x0000_i1039" alt="e卷通组卷系统 www.zujuan.com" style="width:18.75pt;height:11.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId35" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1040" DrawAspect="Content" ObjectID="_1517492589" r:id="rId36"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:object w:dxaOrig="321" w:dyaOrig="281">
+          <v:shape id="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1041" o:spid="_x0000_i1040" alt="e卷通组卷系统 www.zujuan.com" style="width:15.75pt;height:14.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId37" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1041" DrawAspect="Content" ObjectID="_1517492590" r:id="rId38"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:position w:val="-14"/>
+        </w:rPr>
+        <w:object w:dxaOrig="622" w:dyaOrig="401">
+          <v:shape id="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1042" o:spid="_x0000_i1041" alt="e卷通组卷系统 www.zujuan.com" style="width:30.75pt;height:20.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId39" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1042" DrawAspect="Content" ObjectID="_1517492591" r:id="rId40"/>
+        </w:object>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:position w:val="-32"/>
+        </w:rPr>
+        <w:object w:dxaOrig="301" w:dyaOrig="702">
+          <v:shape id="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1043" o:spid="_x0000_i1042" alt="e卷通组卷系统 www.zujuan.com" style="width:15pt;height:35.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId41" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+          <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000c2f7ecb3-d256-471d-abb7-91dbc985f0ec_i1043" DrawAspect="Content" ObjectID="_1517492592" r:id="rId42"/>
+        </w:object>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>这四个数中，负数出现的频率为</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00782505">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>_______</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>5</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>如图</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+          <w:szCs w:val="21"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>半圆</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>O</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>的直径</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>AE=4</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>点</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>B</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>C</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>D</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>均在半圆上</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>若</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>AB=BC</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>CD=DE</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>连接</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>OB</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>OD</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>则图中阴影部分的面积是</w:t>
+      </w:r>
+      <w:r>
+        <w:t>（</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve">    </w:t>
+      </w:r>
+      <w:r>
+        <w:t>）</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00F929D9" w:rsidRPr="00F929D9" w:rsidRDefault="007450B0" w:rsidP="00F929D9">
+      <w:r w:rsidRPr="005524F0">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+          <w:position w:val="-6"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:pict>
+          <v:shape id="_x0000d332f1cd-7575-455e-90e4-ba97928fd190_i1177" o:spid="_x0000_i1043" style="width:106.5pt;height:110.25pt" coordsize="21600,21600" o:spt="100" adj="0,,0" path="" stroked="f">
+            <v:stroke joinstyle="miter"/>
+            <v:imagedata r:id="rId43" o:title=""/>
+            <v:formulas/>
+            <v:path o:connecttype="segments"/>
+          </v:shape>
+        </w:pict>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="000D09E5" w:rsidRDefault="00CB653D">
+      <w:pPr>
+        <w:sectPr w:rsidR="000D09E5" w:rsidSect="00157616">
+          <w:headerReference w:type="even" r:id="rId44"/>
+          <w:headerReference w:type="default" r:id="rId45"/>
+          <w:footerReference w:type="even" r:id="rId46"/>
+          <w:footerReference w:type="default" r:id="rId47"/>
+          <w:pgSz w:w="20639" w:h="14572" w:orient="landscape" w:code="9"/>
+          <w:pgMar w:top="1000" w:right="1797" w:bottom="1000" w:left="2797" w:header="851" w:footer="592" w:gutter="0"/>
+          <w:cols w:num="2" w:sep="1" w:space="425"/>
+          <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="002A2386" w:rsidRPr="00AE5FF7" w:rsidRDefault="00CB653D" w:rsidP="00AE5FF7">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00AE5FF7">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:b/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>参考答案</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRPr="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>D</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRPr="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>【解析】</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRPr="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>试题分析：选项</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>A</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>B</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>C</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>都是随机事件</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>在一定条件下</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>可能发生也可能不发生</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>；选项</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>D</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>是</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>必然发生的事件</w:t>
+      </w:r>
+      <w:r>
+        <w:t>，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:t>简称必然事件</w:t>
+      </w:r>
+      <w:r>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>故选</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>D</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="0006331A" w:rsidRPr="0006331A" w:rsidRDefault="00CB653D" w:rsidP="0006331A">
+      <w:r w:rsidRPr="0006331A">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>考点：概率初步</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="001D696A" w:rsidRPr="003D1863" w:rsidRDefault="00CB653D" w:rsidP="003D1863">
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>2</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>C</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="001D696A" w:rsidRPr="003D1863" w:rsidRDefault="00CB653D" w:rsidP="003D1863">
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>【解析】</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="001D696A" w:rsidRPr="003D1863" w:rsidRDefault="00CB653D" w:rsidP="003D1863">
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>试题分析</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>方差是用来衡量一组数据波动大小的量，方差越小，表明这组数据分布比较集中，各数据偏离平均数越小，即波动越小，数据越稳定</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>由题意可知，</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>68</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>＞</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>22</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>＞</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>0</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>90</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>＞</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>0</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>43</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>，所以丙的成绩最稳定，故答案选</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>C</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="001D696A" w:rsidRPr="003D1863" w:rsidRDefault="00CB653D" w:rsidP="003D1863">
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:spacing w:val="15"/>
+          <w:kern w:val="0"/>
+          <w:lang/>
+        </w:rPr>
+        <w:t>考点</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:spacing w:val="15"/>
+          <w:kern w:val="0"/>
+          <w:lang/>
+        </w:rPr>
+        <w:t>：</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:spacing w:val="15"/>
+          <w:kern w:val="0"/>
+          <w:lang/>
+        </w:rPr>
+        <w:t>方差</w:t>
+      </w:r>
+      <w:r w:rsidRPr="003D1863">
+        <w:rPr>
+          <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+          <w:spacing w:val="15"/>
+          <w:kern w:val="0"/>
+          <w:lang/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="008A24C2" w:rsidRPr="00F929D9" w:rsidRDefault="00CB653D" w:rsidP="007450B0">
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>3</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>．</w:t>
+      </w:r>
+      <w:r w:rsidRPr="0009439F">
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+        </w:rPr>
+        <w:t>D</w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="008A24C2" w:rsidRPr="00F929D9" w:rsidSect="007A55E5">
+      <w:headerReference w:type="even" r:id="rId48"/>
+      <w:headerReference w:type="default" r:id="rId49"/>
+      <w:footerReference w:type="even" r:id="rId50"/>
+      <w:footerReference w:type="default" r:id="rId51"/>
+      <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
+      <w:pgMar w:top="1440" w:right="1797" w:bottom="1440" w:left="1797" w:header="851" w:footer="992" w:gutter="0"/>
+      <w:pgNumType w:start="1"/>
+      <w:cols w:space="425"/>
+      <w:docGrid w:type="lines" w:linePitch="312"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
